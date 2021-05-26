@@ -1,0 +1,39 @@
+{
+	"id": "c7946390-4df3-4f72-93c2-23b17b75b9e8",
+	"name": "Alphaleaf To-Do App QA Env",
+	"values": [
+		{
+			"key": "baseURL",
+			"value": "https://api-nodejs-todolist.herokuapp.com",
+			"enabled": true
+		},
+		{
+			"key": "userToken",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "sessionToken",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "userEmail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "updatedName",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "taskId",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2021-05-26T00:18:41.500Z",
+	"_postman_exported_using": "Postman/8.5.1"
+}
